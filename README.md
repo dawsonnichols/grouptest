@@ -1,3 +1,1 @@
-d# grouptest
-
-Angel's edition
+# grouptest
